@@ -1,0 +1,15 @@
+/Users/zhijianzhang/opengl/CMakeFiles/Glitter.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/bullet/src/Bullet3Common/CMakeFiles/Bullet3Common.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/bullet/src/Bullet3OpenCL/CMakeFiles/Bullet3OpenCL_clew.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/bullet/src/BulletInverseDynamics/CMakeFiles/BulletInverseDynamics.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/bullet/src/BulletCollision/CMakeFiles/BulletCollision.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/bullet/src/LinearMath/CMakeFiles/LinearMath.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/bullet/src/Bullet3Geometry/CMakeFiles/Bullet3Geometry.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/bullet/src/Bullet3Collision/CMakeFiles/Bullet3Collision.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/bullet/src/Bullet3Dynamics/CMakeFiles/Bullet3Dynamics.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/bullet/src/Bullet3Serialize/Bullet2FileLoader/CMakeFiles/Bullet2FileLoader.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/bullet/src/BulletDynamics/CMakeFiles/BulletDynamics.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/bullet/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/glfw/src/CMakeFiles/glfw.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/assimp/code/CMakeFiles/assimp.dir
+/Users/zhijianzhang/opengl/Glitter/Vendor/glfw/CMakeFiles/uninstall.dir
